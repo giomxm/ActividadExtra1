@@ -4,5 +4,5 @@
 public interface Interface {
 
     public void imprimirDatos();
-    public int darBono();
+    public void darBono(int antiguedad);
 }
